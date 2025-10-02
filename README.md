@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web FullStack`**
 
-Me chamo Felipe Trivia Koshimizu, tenho 21 anos e sou natural do São Paulo-SP. Atualmente, estou estudando no PROA e fazendo cursos pela Origamid. Sou apaixonado por tecnologia e compartilho meu conhecimento com a comunidade.
+Me chamo Felipe Trivia Koshimizu, tenho 21 anos e sou natural do São Paulo-SP. Atualmente, estou estudando no PROA e fazendo faculdade de Análise desenvolvimento de sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento com a comunidade.
 
 ___
 
